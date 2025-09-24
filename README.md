@@ -12,7 +12,6 @@ Using Python, Pandas, Matplotlib, Seaborn, and Plotly, this notebook explores wo
 
 🛠️ Tools & Libraries
 - Python 3, Jupyter Notebook
-- Libraries:
 - pandas → Data wrangling
 - numpy → Numerical operations
 - matplotlib, seaborn → Static visualizations
