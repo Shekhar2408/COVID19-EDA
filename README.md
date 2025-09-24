@@ -11,12 +11,12 @@ COVID19-EDA/
 │── README.md                 # Project documentation
 
 🎯 Objectives
-Data cleaning and preprocessing.
-Explore Total Cases, Recoveries, and Deaths across countries.
-Visualize testing efforts vs cases detected.
-Compare cases and deaths per continent.
-Analyze trends over time (daily/weekly growth).
-Perform country-specific analysis (e.g., USA).
+-- Data cleaning and preprocessing.
+-- Explore Total Cases, Recoveries, and Deaths across countries.
+-- Visualize testing efforts vs cases detected.
+-- Compare cases and deaths per continent.
+-- Analyze trends over time (daily/weekly growth).
+-- Perform country-specific analysis (e.g., USA).
 
 🛠️ Tools & Libraries
 Python 3, Jupyter Notebook
