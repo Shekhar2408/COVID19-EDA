@@ -4,11 +4,11 @@ Using Python, Pandas, Matplotlib, Seaborn, and Plotly, this notebook explores wo
 
 📂 Project Structure
 COVID19-EDA/
-│── COVID 19 EDA.ipynb        # Jupyter Notebook with full analysis
-│── covid.csv                 # Raw COVID-19 dataset
-│── covid_grouped.csv         # Grouped/processed dataset
-│── coviddeath.csv            # Death statistics dataset
-│── README.md                 # Project documentation
+- COVID 19 EDA.ipynb        # Jupyter Notebook with full analysis
+- covid.csv                 # Raw COVID-19 dataset
+- covid_grouped.csv         # Grouped/processed dataset
+- coviddeath.csv            # Death statistics dataset
+- README.md                 # Project documentation
 
 🎯 Objectives
 -- Data cleaning and preprocessing.
